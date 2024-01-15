@@ -5,7 +5,7 @@ math on my homework assignments, and to sharpen my python skills. Please let me 
 
 # Use
 
-Simply run the conversion_gui.py file and enter your integer into the box. This GUI is fairly simple and cannot handle float values currently.
+Simply run the **conversion_gui.py** file and enter your integer into the box. This GUI is fairly simple and cannot handle float values currently.
 
 ![image](https://github.com/alexmeert/Base-Conversion/assets/115733315/05188f4f-3d62-48c7-8b36-bb9aebd9d968)
 
