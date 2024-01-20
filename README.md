@@ -14,14 +14,7 @@ Now select the base you are converting from with the respective radio button, as
 
 # Important Notes
 
-**Binary:** Binary is base 2 and when converting from binary your value should consist of zeros (0) and ones (1)
-*Ex: 1011.0101*
-
-**Octal:** Octal is base 8 and when converting from octal your value should consist of numbers 1-7
-*Ex: 1342.674*
-
-**Decimal:** Decimal is base 10 and when converting from decimal your value should consist of numbers 1-10
-*Ex: 1482.936*
-
-**Hexadecimal:** Hexadecimal is base 16 and when converting from hex your value should consist of numbers 1-10 and letters A-F
-*Ex: 4FDE7.AB6*
+**Binary:** Binary is base 2 and when converting from binary your value should consist of zeros (0) and ones (1)  *(Ex: 1011.0101)*
+**Octal:** Octal is base 8 and when converting from octal your value should consist of numbers 1-7  *(Ex: 1342.674)*
+**Decimal:** Decimal is base 10 and when converting from decimal your value should consist of numbers 1-10  *(Ex: 1482.936)*
+**Hexadecimal:** Hexadecimal is base 16 and when converting from hex your value should consist of numbers 1-10 and letters A-F  *(Ex: 4FDE7.AB6)*
