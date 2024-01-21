@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from floatconversion_math import *
+from conversion_math import *
 
 def tk_window():
     # Create the main window
