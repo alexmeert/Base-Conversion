@@ -1,6 +1,6 @@
 # About the Base Conversion Graphical User Interface
 
-I'm currently taking Fundamentals of Computer Systems, a class that relies on being able to quickly and efficiently convert between different bases. I took this as an opportunity to create a basic GUI that would allow me to check my own math on my homework assignments, and to sharpen my python skills. Please let me know how functionality, use, appearance, or efficiency can be improved. Thank you!
+Fundamentals of Computer Systems is a course that relies on being able to quickly and efficiently convert between different bases. I took this as an opportunity to create a basic GUI that would allow me to check my own math on my homework assignments, and to sharpen my python skills. Please let me know how functionality, use, appearance, or efficiency can be improved. Thank you!
 
 # Use
 
